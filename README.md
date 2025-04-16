@@ -4,7 +4,7 @@ This repository contains the web project developed as part of the technical test
 
 ## Link
 
-You can see a live demo of the project [here](https://lawrpunk.github.io/pet/).
+You can see a live demo of the project [here](https://laurentiu-m.github.io/pet/).
 
 ## Features
 
